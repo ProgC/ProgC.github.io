@@ -1,7 +1,5 @@
-Greeting entire human race,<br>
-I'm a programmer especially game programming but I do other things too.<br>
-I have a speciality of completion of creating software such as game, prototyping, tools and so on.<br>
-I'm interesed in creating games, engine, system and electrical stuffs.<br>
-Feel free to reach me via linkedin if you can find me there.<br><br>
-
-Thank you<br>
+I'm a programmer with a strong focus on game development, though I enjoy exploring other areas as well.
+My specialty lies in bringing ideas to life—whether it’s creating games, building prototypes, developing tools, or crafting complete software solutions.
+I'm passionate about designing game engines, systems, and working on electrical projects too.
+Feel free to connect with me on LinkedIn—if you can find me there!
+Thank you!
